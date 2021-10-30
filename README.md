@@ -1,0 +1,1 @@
+# django-html-pagination-snippet

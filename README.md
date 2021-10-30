@@ -2,7 +2,7 @@
 
 !! I will refactor these, I hope I don't forget ;)
 
-~~~
+~~~html
 <style>
     .page-side-btn {
         background-color: #ca995e;
@@ -29,7 +29,7 @@
 </style>
 ~~~
 
-~~~
+~~~html
 <!-- pagination -->
 <div class="text-center">
     {% if page_obj.has_previous %}
